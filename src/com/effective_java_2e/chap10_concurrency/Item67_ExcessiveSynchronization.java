@@ -1,6 +1,6 @@
 package com.effective_java_2e.chap10_concurrency;
 
-import org.java.effective_java_2e.chap04_classes_and_interfaces.Item16_Composition;
+import com.effective_java_2e.chap04_classes_and_interfaces.Item16_Composition;
 
 import java.util.ArrayList;
 import java.util.Collection;

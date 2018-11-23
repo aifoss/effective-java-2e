@@ -1,7 +1,6 @@
 package com.effective_java_2e.chap04_classes_and_interfaces;
 
 import static com.effective_java_2e.chap04_classes_and_interfaces.Item19_Interface2.PhysicalConstants2.AVOGADROS_NUMBER;
-import static org.java.effective_java_2e.chap04_classes_and_interfaces.Item19_Interface2.PhysicalConstants2.*;
 
 /**
  * Created by sofia on 5/15/17.
